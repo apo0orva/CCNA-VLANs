@@ -71,3 +71,32 @@ This repository contains the full Cisco IOS configurations for the network topol
 1. **Routing:** All routers use OSPF Process 1.
 2. **Encapsulation:** Sub-interfaces use `dot1q`.
 3. **Redundancy:** Spanning Tree Rapid-PVST (`RAP`) is used across the switching fabric.
+
+# CCNA Project Configuration Guide
+
+This document contains the CLI configuration for all network devices in the topology.
+
+---
+
+## 🛰️ Router Configurations
+
+### ISP Configuration
+```cisco
+EN
+CONF T
+HOSTNAME ISP
+ENABLE SECRET CISCO
+LINE VTY 0 5
+ PASSWORD CISCO
+ LOGIN
+ EXEC-TIMEOUT 30
+INT S0/3/0
+ CLOCK RATE 128000
+ IP ADD 10.0.0.1 255.255.255.252
+ NO SHUT
+INT L0
+ IP ADD 8.8.8.8 255.255.255.255
+ROUTER OSPF 1
+ ROUTER-ID 8.8.8.8
+ NETWORK 10.0.0.0 0.0.0.3 AREA 0
+DO WR MEM
