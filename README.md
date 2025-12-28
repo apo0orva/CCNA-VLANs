@@ -1,6 +1,9 @@
 # CCNA-VLANs
 Practice lab for CCNA exam with VLANs, DHCP IP addressing, switchport, port security, and OSPF area 1 routing.
 
+<img width="1493" height="730" alt="image" src="https://github.com/user-attachments/assets/efd99e8b-f0b3-4f71-9396-1d2fc76d438e" />
+
+
 # CCNA Network Configuration Lab
 
 This repository contains the full Cisco IOS configurations for the network topology, including OSPF routing, VLAN management, VTP, and Layer 2 security.
