@@ -101,3 +101,6 @@ ROUTER OSPF 1
  ROUTER-ID 8.8.8.8
  NETWORK 10.0.0.0 0.0.0.3 AREA 0
 DO WR MEM
+
+### ISP Configuration
+```cisco
