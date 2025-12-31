@@ -544,11 +544,13 @@ DO WR MEM
 
 ## 🛰️DNS Configuration
 
+SRV2 DNS Configuration
 <img width="698" height="713" alt="image" src="https://github.com/user-attachments/assets/d4811137-89e1-4e8c-9afa-a618b0880977" />
 
 
 ## 🛰️WEB Configuration
 
+SRV1 HTTP/HTTPS Configuration
 <img width="683" height="416" alt="image" src="https://github.com/user-attachments/assets/ce8ab69e-770c-446b-a328-3b70ae6f0542" />
 
 Ping from PC-VLAN10-1 to SRV1
