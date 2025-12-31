@@ -542,6 +542,10 @@ DO WR MEM
 ```
 
 
+## 🛰️OSPF Status
+
+OSPF database table
+
 ## 🛰️DNS Configuration
 
 SRV2 DNS Configuration
