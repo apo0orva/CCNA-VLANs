@@ -544,9 +544,13 @@ DO WR MEM
 
 ## 🛰️DNS Configuration
 
-A
+<img width="698" height="713" alt="image" src="https://github.com/user-attachments/assets/d4811137-89e1-4e8c-9afa-a618b0880977" />
 
 
 ## 🛰️WEB Configuration
 
-A
+<img width="683" height="416" alt="image" src="https://github.com/user-attachments/assets/ce8ab69e-770c-446b-a328-3b70ae6f0542" />
+
+Ping from PC-VLAN10-1 to SRV1
+
+<img width="700" height="317" alt="image" src="https://github.com/user-attachments/assets/9d6a340a-e2b1-4fdf-a721-5aa1936daf28" />
