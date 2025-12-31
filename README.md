@@ -540,3 +540,13 @@ INT FA0/2
  SW ACCESS VLAN 211
 DO WR MEM
 ```
+
+
+## 🛰️DNS Configuration
+
+A
+
+
+## 🛰️WEB Configuration
+
+A
