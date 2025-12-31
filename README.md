@@ -545,6 +545,7 @@ DO WR MEM
 ## 🛰️OSPF Status
 
 OSPF database table
+<img width="654" height="434" alt="image" src="https://github.com/user-attachments/assets/ca76699e-05a2-4579-b2c2-15f4c897fa13" />
 
 ## 🛰️DNS Configuration
 
